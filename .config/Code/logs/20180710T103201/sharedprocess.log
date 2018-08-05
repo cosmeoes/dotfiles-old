@@ -1,0 +1,17 @@
+[2018-07-10 10:32:06.475] [sharedprocess] [info] main {"machineId":"60a2a2c237b954e1a36d7c997e893dfc8964b918686ef45e08bfdd82f89443f9"}
+[2018-07-10 10:32:06.772] [sharedprocess] [info] Scanned user extensions: 2
+[2018-07-10 10:32:07.172] [sharedprocess] [info] Deleted from disk dunstontc.dark-plus-syntax-0.0.126
+[2018-07-10 10:32:07.441] [sharedprocess] [info] Scanned system extensions: 69
+[2018-07-10 10:32:08.965] [sharedprocess] [info] Scanned user extensions: 2
+[2018-07-10 10:32:08.969] [sharedprocess] [info] Scanned user extensions: 2
+[2018-07-10 10:32:09.049] [sharedprocess] [info] Scanned system extensions: 69
+[2018-07-10 10:32:23.421] [sharedprocess] [info] Scanned user extensions: 2
+[2018-07-10 10:32:46.490] [sharedprocess] [info] Starting to clean up unused language packs.
+[2018-07-10 10:32:53.753] [sharedprocess] [info] Installing extension: dark-plus-syntax
+[2018-07-10 10:33:11.006] [sharedprocess] [info] Downloaded extension: dark-plus-syntax
+[2018-07-10 10:33:11.079] [sharedprocess] [info] Extracted extension to /home/cosme/.vscode/extensions/.dunstontc.dark-plus-syntax-0.0.129: dunstontc.dark-plus-syntax-0.0.129
+[2018-07-10 10:33:11.080] [sharedprocess] [info] Renamed to /home/cosme/.vscode/extensions/dunstontc.dark-plus-syntax-0.0.129
+[2018-07-10 10:33:11.080] [sharedprocess] [info] Installation completed. dunstontc.dark-plus-syntax-0.0.129
+[2018-07-10 10:33:11.141] [sharedprocess] [info] Extensions installed successfully: dunstontc.dark-plus-syntax
+[2018-07-10 10:33:11.283] [sharedprocess] [info] Scanned user extensions: 2
+[2018-07-10 10:33:11.360] [sharedprocess] [info] Scanned system extensions: 69

@@ -1,0 +1,641 @@
+sw_volume: 100
+audio_device_state:1:pulse audio
+audio_device_state:1:fifo
+state: pause
+current: 447
+time: 184.424000
+random: 1
+repeat: 0
+single: 0
+consume: 0
+crossfade: 0
+mixrampdb: 0.000000
+mixrampdelay: -1.000000
+playlist_begin
+0:Staind/(1996) The Singles (1996-2006)/01 - Come Again.mp3
+1:Staind/(1996) The Singles (1996-2006)/02 - Mudshovel.mp3
+2:Staind/(1996) The Singles (1996-2006)/03 - Home.mp3
+3:Staind/(1996) The Singles (1996-2006)/04 - Outside (Family Values Version).mp3
+4:Staind/(1996) The Singles (1996-2006)/05 - It's Been Awhile.mp3
+5:Staind/(1996) The Singles (1996-2006)/06 - For You.mp3
+6:Staind/(1996) The Singles (1996-2006)/07 - Epiphany.mp3
+7:Staind/(1996) The Singles (1996-2006)/08 - So Far Away.mp3
+8:Staind/(1996) The Singles (1996-2006)/09 - Price To Play.mp3
+9:Staind/(1996) The Singles (1996-2006)/10 - Zoe Jane.mp3
+10:Staind/(1996) The Singles (1996-2006)/11 - Right Here.mp3
+11:Staind/(1996) The Singles (1996-2006)/12 - Falling.mp3
+12:Staind/(1996) The Singles (1996-2006)/13 - Everything Changes (Acoustic Live).mp3
+13:Staind/(1996) The Singles (1996-2006)/14 - Nutshell (Acoustic Live).mp3
+14:Staind/(1996) The Singles (1996-2006)/15 - Sober (Acoustic Live).mp3
+15:Staind/(1996) The Singles (1996-2006)/16 - Comfortably Numb (Acoustic Live).mp3
+16:Staind/(1996) Tormented/01 - Tolerate.mp3
+17:Staind/(1996) Tormented/01 - Come Again.mp3
+18:Staind/(1996) Tormented/03 - Break.mp3
+19:Staind/(1996) Tormented/04 - Painful.mp3
+20:Staind/(1996) Tormented/05 - Nameless.mp3
+21:Staind/(1996) Tormented/06 - Mudshovel.mp3
+22:Staind/(1996) Tormented/07 - See Through.mp3
+23:Staind/(1996) Tormented/08 - Question.mp3
+24:Staind/(1996) Tormented/09 - No One's Kind.mp3
+25:Staind/(1996) Tormented/10 - Self Destruct.mp3
+26:Staind/(1999) Dysfunction/01 - Suffocate.mp3
+27:Staind/(1999) Dysfunction/02 - Just Go.mp3
+28:Staind/(1999) Dysfunction/03 - Me.mp3
+29:Staind/(1999) Dysfunction/04 - Raw.mp3
+30:Staind/(1999) Dysfunction/05 - Mudshovel.mp3
+31:Staind/(1999) Dysfunction/06 - Home.mp3
+32:Staind/(1999) Dysfunction/07 - A Flat.mp3
+33:Staind/(1999) Dysfunction/08 - Crawl.mp3
+34:Staind/(1999) Dysfunction/09 - Spleen.mp3
+35:Staind/(2001) Break The Cycle/01 - Open Your Eyes.mp3
+36:Staind/(2001) Break The Cycle/02 - Pressure.mp3
+37:Staind/(2001) Break The Cycle/03 - Fade.mp3
+38:Staind/(2001) Break The Cycle/04 - It's Been Awhile.mp3
+39:Staind/(2001) Break The Cycle/05 - Change.mp3
+40:Staind/(2001) Break The Cycle/06 - Can't Believe.mp3
+41:Staind/(2001) Break The Cycle/07 - Epiphany.mp3
+42:Staind/(2001) Break The Cycle/08 - Suffer.mp3
+43:Staind/(2001) Break The Cycle/09 - Warm Safe Place.mp3
+44:Staind/(2001) Break The Cycle/10 - For You.mp3
+45:Staind/(2001) Break The Cycle/11 - Outside.mp3
+46:Staind/(2001) Break The Cycle/12 - Waste.mp3
+47:Staind/(2001) Break The Cycle/13 - Take It.mp3
+48:Staind/(2003) 14 Shades Of Grey/01 - Price To Play.mp3
+49:Staind/(2003) 14 Shades Of Grey/02 - How About You.mp3
+50:Staind/(2003) 14 Shades Of Grey/03 - So Far Away.mp3
+51:Staind/(2003) 14 Shades Of Grey/04 - Yesterday.mp3
+52:Staind/(2003) 14 Shades Of Grey/05 - Fray.mp3
+53:Staind/(2003) 14 Shades Of Grey/06 - Zoe Jane.mp3
+54:Staind/(2003) 14 Shades Of Grey/07 - Fill Me Up.mp3
+55:Staind/(2003) 14 Shades Of Grey/08 - Layne.mp3
+56:Staind/(2003) 14 Shades Of Grey/09 - Falling Down.mp3
+57:Staind/(2003) 14 Shades Of Grey/10 - Reality.mp3
+58:Staind/(2003) 14 Shades Of Grey/11 - Tonight.mp3
+59:Staind/(2003) 14 Shades Of Grey/12 - Could It Be.mp3
+60:Staind/(2003) 14 Shades Of Grey/13 - Blow Away.mp3
+61:Staind/(2003) 14 Shades Of Grey/14 - Intro.mp3
+62:Staind/(2005) Chapter V/01 - Run Away.mp3
+63:Staind/(2005) Chapter V/02 - Right Here.mp3
+64:Staind/(2005) Chapter V/03 - Paper Jesus.mp3
+65:Staind/(2005) Chapter V/04 - Schizophrenic Conversations.mp3
+66:Staind/(2005) Chapter V/05 - Falling.mp3
+67:Staind/(2005) Chapter V/06 - Cross to Bear.mp3
+68:Staind/(2005) Chapter V/07 - Devil.mp3
+69:Staind/(2005) Chapter V/08 - Please.mp3
+70:Staind/(2005) Chapter V/09 - Everything Changes.mp3
+71:Staind/(2005) Chapter V/10 - Trippy.mp3
+72:Staind/(2005) Chapter V/11 - King of All Excuses.mp3
+73:Staind/(2005) Chapter V/12 - Reply.mp3
+74:Staind/(2008) The Illusion Of Progress/01 - This Is It.mp3
+75:Staind/(2008) The Illusion Of Progress/02 - The Way I Am.mp3
+76:Staind/(2008) The Illusion Of Progress/03 - Believe.mp3
+77:Staind/(2008) The Illusion Of Progress/04 - Save Me.mp3
+78:Staind/(2008) The Illusion Of Progress/05 - All I Want.mp3
+79:Staind/(2008) The Illusion Of Progress/06 - Pardon Me.mp3
+80:Staind/(2008) The Illusion Of Progress/07 - Lost Along The Way.mp3
+81:Staind/(2008) The Illusion Of Progress/08 - Break Away.mp3
+82:Staind/(2008) The Illusion Of Progress/09 - Tangled Up In You.mp3
+83:Staind/(2008) The Illusion Of Progress/10 - Raining Again.mp3
+84:Staind/(2008) The Illusion Of Progress/11 - Rainy Day Parade.mp3
+85:Staind/(2008) The Illusion Of Progress/12 - The Corner.mp3
+86:Staind/(2008) The Illusion Of Progress/13 - Nothing Left To Say.mp3
+87:Staind/[2011] Staind (Self Titled)/01 - Eyes Wide Open.mp3
+88:Staind/[2011] Staind (Self Titled)/02 - Not Again.mp3
+89:Staind/[2011] Staind (Self Titled)/03 - Failing.mp3
+90:Staind/[2011] Staind (Self Titled)/04 - Wannabe.mp3
+91:Staind/[2011] Staind (Self Titled)/05 - Throw It All Away.mp3
+92:Staind/[2011] Staind (Self Titled)/06 - Take a Breath.mp3
+93:Staind/[2011] Staind (Self Titled)/07 - The Bottom.mp3
+94:Staind/[2011] Staind (Self Titled)/08 - Now.mp3
+95:Staind/[2011] Staind (Self Titled)/09 - Paper Wings.mp3
+96:Staind/[2011] Staind (Self Titled)/10 - Something To Remind You.mp3
+97:Seether/[2000] Fragile/07 - Take Me Away.mp3
+98:Seether/[2000] Fragile/09 - Stay And Play.mp3
+99:Seether/[2000] Fragile/10 - Your Bore.mp3
+100:Seether/[2000] Fragile/11 - Pig.mp3
+101:Seether/[2000] Fragile/14 - Tied My Hands (acoustic).mp3
+102:Seether/[2000] Fragile/15 - Senseless Tragedy.mp3
+103:Seether/[2000] Fragile/01 - Beer.mp3
+104:Seether/[2000] Fragile/02 - 69 Tea.mp3
+105:Seether/[2000] Fragile/03 - Pride.mp3
+106:Seether/[2000] Fragile/04 - Fine Again.mp3
+107:Seether/[2000] Fragile/05 - Empty.mp3
+108:Seether/[2000] Fragile/06 - Tied My Hands.mp3
+109:Seether/[2000] Fragile/08 - Driven Under.mp3
+110:Seether/[2000] Fragile/12 - Dazed and Abused.mp3
+111:Seether/[2000] Fragile/13 - Gasoline.mp3
+112:Seether/[2004] Disclaimer II/01 - Gasoline.mp3
+113:Seether/[2004] Disclaimer II/02 - 69 Tea.mp3
+114:Seether/[2004] Disclaimer II/03 - Fine Again.mp3
+115:Seether/[2004] Disclaimer II/04 - Needles.mp3
+116:Seether/[2004] Disclaimer II/05 - Driven Under.mp3
+117:Seether/[2004] Disclaimer II/06 - Pride.mp3
+118:Seether/[2004] Disclaimer II/07 - Sympathetic.mp3
+119:Seether/[2004] Disclaimer II/08 - Your Bore.mp3
+120:Seether/[2004] Disclaimer II/09 - Fade Away.mp3
+121:Seether/[2004] Disclaimer II/10 - Pig.mp3
+122:Seether/[2004] Disclaimer II/11 - Fuck It.mp3
+123:Seether/[2004] Disclaimer II/12 - Broken.mp3
+124:Seether/[2004] Disclaimer II/13 - Sold Me.mp3
+125:Seether/[2004] Disclaimer II/14 - Cigarettes.mp3
+126:Seether/[2004] Disclaimer II/15 - Love Her.mp3
+127:Seether/[2004] Disclaimer II/16 - Take Me Away.mp3
+128:Seether/[2004] Disclaimer II/17 - Got It Made.mp3
+129:Seether/[2004] Disclaimer II/18 - Out Of My Way.mp3
+130:Seether/[2004] Disclaimer II/19 - Hang On.mp3
+131:Seether/[2004] Disclaimer II/20 - Broken (feat. Amy Lee).mp3
+132:Seether/[2005] Karma & Effect/01 - Because Of Me.mp3
+133:Seether/[2005] Karma & Effect/02 - Remedy.mp3
+134:Seether/[2005] Karma & Effect/03 - Truth.mp3
+135:Seether/[2005] Karma & Effect/04 - The Gift.mp3
+136:Seether/[2005] Karma & Effect/05 - Burrito.mp3
+137:Seether/[2005] Karma & Effect/06 - Given.mp3
+138:Seether/[2005] Karma & Effect/07 - Never Leave.mp3
+139:Seether/[2005] Karma & Effect/08 - World Falls Away.mp3
+140:Seether/[2005] Karma & Effect/09 - Tongue.mp3
+141:Seether/[2005] Karma & Effect/10 - I'm The One.mp3
+142:Seether/[2005] Karma & Effect/11 - Simplest Mistake.mp3
+143:Seether/[2005] Karma & Effect/12 - Diseased.mp3
+144:Seether/[2005] Karma & Effect/13 - Plastic Man.mp3
+145:Seether/[2005] Karma & Effect/14 - (Untitled).mp3
+146:Seether/[2006] B-Sides & Rarities/02 - Blister.mp3
+147:Seether/[2006] B-Sides & Rarities/03 - Skin The Tiger.mp3
+148:Seether/[2006] B-Sides & Rarities/04 - Senseless Tragedy.mp3
+149:Seether/[2006] B-Sides & Rarities/05 - Rain (Acoustic).mp3
+150:Seether/[2006] B-Sides & Rarities/06 - One On One (Live at Woodstock).mp3
+151:Seether/[2006] B-Sides & Rarities/07 - Love Her (5fm studios).mp3
+152:Seether/[2006] B-Sides & Rarities/08 - Jessie's Song.mp3
+153:Seether/[2006] B-Sides & Rarities/09 - River Of Deceit.mp3
+154:Seether/[2006] B-Sides & Rarities/10 - Rehab (Pepsi Smash).mp3
+155:Seether/[2006] B-Sides & Rarities/01 - Innocence.mp3
+156:Seether/[2007] Finding Beauty In Negative Spaces/01 - Like Suicide.mp3
+157:Seether/[2007] Finding Beauty In Negative Spaces/02 - Fake It.mp3
+158:Seether/[2007] Finding Beauty In Negative Spaces/03 - Breakdown.mp3
+159:Seether/[2007] Finding Beauty In Negative Spaces/04 - Fmlyhm.mp3
+160:Seether/[2007] Finding Beauty In Negative Spaces/05 - Fallen.mp3
+161:Seether/[2007] Finding Beauty In Negative Spaces/06 - Rise Above This.mp3
+162:Seether/[2007] Finding Beauty In Negative Spaces/07 - No Jesus Christ.mp3
+163:Seether/[2007] Finding Beauty In Negative Spaces/09 - Walk Away From The Sun.mp3
+164:Seether/[2007] Finding Beauty In Negative Spaces/10 - Eyes Of The Devil.mp3
+165:Seether/[2007] Finding Beauty In Negative Spaces/11 - Don't Believe.mp3
+166:Seether/[2007] Finding Beauty In Negative Spaces/12 - Waste.mp3
+167:Seether/[2007] Finding Beauty In Negative Spaces/16 - Naked (Bonus Track).mp3
+168:Seether/[2007] Finding Beauty In Negative Spaces/08 - Six Gun Quota.mp3
+169:Seether/[2007] Finding Beauty In Negative Spaces/18 - Untitled [Instrumental] (Bonus Track).mp3
+170:Seether/[2007] Finding Beauty In Negative Spaces/13 - Careless Whisper.mp3
+171:Seether/[2007] Finding Beauty In Negative Spaces/14 - Careless Whisper (Strings Version).mp3
+172:Seether/[2007] Finding Beauty In Negative Spaces/15 - Quirk (Demo Version- ''Fake It'') (Bonus Track).mp3
+173:Seether/[2007] Finding Beauty In Negative Spaces/17 - Left For Dead (B-Side).mp3
+174:Seether/[2008] Lost Boys (The Tribe OST)/01 - Burrito (Live Acoustic).mp3
+175:Seether/[2009] I've Got You Under My Skin (Cover)/01 - I've Got You Under My Skin (Frank Sinatra Cover).mp3
+176:Seether/[2011] Holding Onto Strings Better Left To Fray/01 - Fur Cue.mp3
+177:Seether/[2011] Holding Onto Strings Better Left To Fray/02 - No Resolution.mp3
+178:Seether/[2011] Holding Onto Strings Better Left To Fray/03 - Here And Now.mp3
+179:Seether/[2011] Holding Onto Strings Better Left To Fray/04 - Country Song.mp3
+180:Seether/[2011] Holding Onto Strings Better Left To Fray/05 - Master Of Disaster.mp3
+181:Seether/[2011] Holding Onto Strings Better Left To Fray/06 - Tonight.mp3
+182:Seether/[2011] Holding Onto Strings Better Left To Fray/07 - Pass Slowly.mp3
+183:Seether/[2011] Holding Onto Strings Better Left To Fray/08 - Fade Out.mp3
+184:Seether/[2011] Holding Onto Strings Better Left To Fray/09 - Roses.mp3
+185:Seether/[2011] Holding Onto Strings Better Left To Fray/10 - Down.mp3
+186:Seether/[2011] Holding Onto Strings Better Left To Fray/11 - Desire For Need.mp3
+187:Seether/[2011] Holding Onto Strings Better Left To Fray/12 - Forsaken.mp3
+188:Seether/[2011] Holding Onto Strings Better Left To Fray/13 - Dead Seeds (Bonus Track).mp3
+189:Seether/[2011] Holding Onto Strings Better Left To Fray/14 - Yeah (Bonus Track).mp3
+190:Seether/[2011] Holding Onto Strings Better Left To Fray/15 - Nobody (Bonus Track).mp3
+191:Seether/[2011] Holding Onto Strings Better Left To Fray/16 - Effigy (Bonus Track).mp3
+192:Seether/[2014] Isolate And Medicate (Deluxe Edition)/01 - See You At The Bottom.mp3
+193:Seether/[2014] Isolate And Medicate (Deluxe Edition)/02 - Same Damn Life.mp3
+194:Seether/[2014] Isolate And Medicate (Deluxe Edition)/03 - Words As Weapons.mp3
+195:Seether/[2014] Isolate And Medicate (Deluxe Edition)/04 - My Disaster.mp3
+196:Seether/[2014] Isolate And Medicate (Deluxe Edition)/05 - Crash.mp3
+197:Seether/[2014] Isolate And Medicate (Deluxe Edition)/06 - Suffer It All.mp3
+198:Seether/[2014] Isolate And Medicate (Deluxe Edition)/07 - Watch Me Drown.mp3
+199:Seether/[2014] Isolate And Medicate (Deluxe Edition)/08 - Nobody Praying For Me.mp3
+200:Seether/[2014] Isolate And Medicate (Deluxe Edition)/09 - Keep The Dogs At Bay.mp3
+201:Seether/[2014] Isolate And Medicate (Deluxe Edition)/10 - Save Today.mp3
+202:Seether/[2014] Isolate And Medicate (Deluxe Edition)/11 - Turn Around.mp3
+203:Seether/[2014] Isolate And Medicate (Deluxe Edition)/12 - Burn The World.mp3
+204:Seether/[2014] Isolate And Medicate (Deluxe Edition)/13 - Goodbye Tonight - Van Coke Kartel.mp3
+205:Seether/[2014] Isolate And Medicate (Deluxe Edition)/14 - Weak.mp3
+206:Stone Sour/[2002] Stone Sour/01. Get Inside.mp3
+207:Stone Sour/[2002] Stone Sour/02. Orchids.mp3
+208:Stone Sour/[2002] Stone Sour/03. Cold Reader.mp3
+209:Stone Sour/[2002] Stone Sour/04. Blotter.mp3
+210:Stone Sour/[2002] Stone Sour/05. Choose.mp3
+211:Stone Sour/[2002] Stone Sour/06. Monolith.mp3
+212:Stone Sour/[2002] Stone Sour/07. Inhale.mp3
+213:Stone Sour/[2002] Stone Sour/08. Bother.mp3
+214:Stone Sour/[2002] Stone Sour/09. Blue Study.mp3
+215:Stone Sour/[2002] Stone Sour/10. Take A Number.mp3
+216:Stone Sour/[2002] Stone Sour/11. Idle Hands.mp3
+217:Stone Sour/[2002] Stone Sour/12. Tumult.mp3
+218:Stone Sour/[2002] Stone Sour/13. Omega.mp3
+219:Stone Sour/[2002] Stone Sour/14. Rules Of Evidence.mp3
+220:Stone Sour/[2002] Stone Sour/15. The Wicked.mp3
+221:Stone Sour/[2002] Stone Sour/16. Inside The Cynic.mp3
+222:Stone Sour/[2002] Stone Sour/17. Kill Everybody.mp3
+223:Stone Sour/[2002] Stone Sour/18. Road Hogs.mp3
+224:Stone Sour/[2007] Come What(ever) May/01. 30-30-150.mp3
+225:Stone Sour/[2007] Come What(ever) May/02. Come What(ever) May.mp3
+226:Stone Sour/[2007] Come What(ever) May/03. Hell & Consequences.mp3
+227:Stone Sour/[2007] Come What(ever) May/04. Sillyworld.mp3
+228:Stone Sour/[2007] Come What(ever) May/05. Made Of Scars.mp3
+229:Stone Sour/[2007] Come What(ever) May/06. Reborn.mp3
+230:Stone Sour/[2007] Come What(ever) May/07. Your God.mp3
+231:Stone Sour/[2007] Come What(ever) May/08. Through Glass.mp3
+232:Stone Sour/[2007] Come What(ever) May/09. Socio.mp3
+233:Stone Sour/[2007] Come What(ever) May/10. 1st Person.mp3
+234:Stone Sour/[2007] Come What(ever) May/11. Cardiff.mp3
+235:Stone Sour/[2007] Come What(ever) May/12. Zzyzx Rd..mp3
+236:Stone Sour/[2007] Come What(ever) May/13. Suffer.mp3
+237:Stone Sour/[2007] Come What(ever) May/14. Fruitcake.mp3
+238:Stone Sour/[2007] Come What(ever) May/15. The Day I Let Go.mp3
+239:Stone Sour/[2007] Come What(ever) May/16. Freeze Dry Seal.mp3
+240:Stone Sour/[2007] Come What(ever) May/17. Wicked Game.mp3
+241:Stone Sour/[2007] Come What(ever) May/18. The Frozen.mp3
+242:Stone Sour/[2010] Audio Secrecy/01. Audio Secrecy.mp3
+243:Stone Sour/[2010] Audio Secrecy/02. Mission Statement.mp3
+244:Stone Sour/[2010] Audio Secrecy/03. Digital (Did You Tell).mp3
+245:Stone Sour/[2010] Audio Secrecy/04. Say You'll Haunt Me.mp3
+246:Stone Sour/[2010] Audio Secrecy/05. Dying.mp3
+247:Stone Sour/[2010] Audio Secrecy/07. Unfinished.mp3
+248:Stone Sour/[2010] Audio Secrecy/06. Let's Be Honest.mp3
+249:Stone Sour/[2010] Audio Secrecy/08. Hesitate.mp3
+250:Stone Sour/[2010] Audio Secrecy/09. Nylon 66.mp3
+251:Stone Sour/[2010] Audio Secrecy/10. Miracles.mp3
+252:Stone Sour/[2010] Audio Secrecy/11. Pieces.mp3
+253:Stone Sour/[2010] Audio Secrecy/12. The Bitter End.mp3
+254:Stone Sour/[2010] Audio Secrecy/13. Imperfect.mp3
+255:Stone Sour/[2010] Audio Secrecy/14. Threadbare.mp3
+256:Stone Sour/[2010] Audio Secrecy/15. Hate Not Gone.mp3
+257:Stone Sour/[2010] Audio Secrecy/16. Anna.mp3
+258:Stone Sour/[2010] Audio Secrecy/17. Home Again.mp3
+259:Stone Sour/[2010] Audio Secrecy/18. Saturday Morning [iTunes Bonus Track].mp3
+260:Stone Sour/[2012] House Of Gold And Bones Pt. 1/01. Gone Sovereign.mp3
+261:Stone Sour/[2012] House Of Gold And Bones Pt. 1/02. Absolute Zero.mp3
+262:Stone Sour/[2012] House Of Gold And Bones Pt. 1/03. A Rumor Of Skin.mp3
+263:Stone Sour/[2012] House Of Gold And Bones Pt. 1/04. The Travellers, Part 1.mp3
+264:Stone Sour/[2012] House Of Gold And Bones Pt. 1/05. Tired.mp3
+265:Stone Sour/[2012] House Of Gold And Bones Pt. 1/06. RU486.mp3
+266:Stone Sour/[2012] House Of Gold And Bones Pt. 1/07. My Name Is Allen.mp3
+267:Stone Sour/[2012] House Of Gold And Bones Pt. 1/08. Taciturn.mp3
+268:Stone Sour/[2012] House Of Gold And Bones Pt. 1/09. Influence Of A Drowsy God.mp3
+269:Stone Sour/[2012] House Of Gold And Bones Pt. 1/10. The Travellers, Part 2.mp3
+270:Stone Sour/[2012] House Of Gold And Bones Pt. 1/11. Last Of The Real.mp3
+271:Stone Sour/[2012] House Of Gold And Bones Pt. 1/12. Gallows Humor (Rough Demo) (Bonus Track).mp3
+272:Stone Sour/[2013] House Of Gold And Bones Pt. 2/01. Red City.mp3
+273:Stone Sour/[2013] House Of Gold And Bones Pt. 2/02. Black John.mp3
+274:Stone Sour/[2013] House Of Gold And Bones Pt. 2/03. Sadist.mp3
+275:Stone Sour/[2013] House Of Gold And Bones Pt. 2/04. Peckinpah.mp3
+276:Stone Sour/[2013] House Of Gold And Bones Pt. 2/05. Stalemate.mp3
+277:Stone Sour/[2013] House Of Gold And Bones Pt. 2/06. Gravesend.mp3
+278:Stone Sour/[2013] House Of Gold And Bones Pt. 2/07. '82.mp3
+279:Stone Sour/[2013] House Of Gold And Bones Pt. 2/08. The Uncanny Valley.mp3
+280:Stone Sour/[2013] House Of Gold And Bones Pt. 2/09. Blue Smoke.mp3
+281:Stone Sour/[2013] House Of Gold And Bones Pt. 2/10. Do Me A Favor.mp3
+282:Stone Sour/[2013] House Of Gold And Bones Pt. 2/11. The Conflagration.mp3
+283:Stone Sour/[2013] House Of Gold And Bones Pt. 2/12. The House Of Gold & Bones.mp3
+284:Stone Sour/[2013] House Of Gold And Bones Pt. 2/13. Shine [Rough Demo].mp3
+285:System of a Down/Albums/1998.06.30 - System of a Down (Limited Edition)/CD1/01 - Suite-Pee.mp3
+286:System of a Down/Albums/1998.06.30 - System of a Down (Limited Edition)/CD1/02 - Know.mp3
+287:System of a Down/Albums/1998.06.30 - System of a Down (Limited Edition)/CD1/03 - Sugar.mp3
+288:System of a Down/Albums/1998.06.30 - System of a Down (Limited Edition)/CD1/04 - Suggestions.mp3
+289:System of a Down/Albums/1998.06.30 - System of a Down (Limited Edition)/CD1/05 - Spiders.mp3
+290:System of a Down/Albums/1998.06.30 - System of a Down (Limited Edition)/CD1/06 - DDevil.mp3
+291:System of a Down/Albums/1998.06.30 - System of a Down (Limited Edition)/CD1/07 - Soil.mp3
+292:System of a Down/Albums/1998.06.30 - System of a Down (Limited Edition)/CD1/08 - War.mp3
+293:System of a Down/Albums/1998.06.30 - System of a Down (Limited Edition)/CD1/09 - Mind.mp3
+294:System of a Down/Albums/1998.06.30 - System of a Down (Limited Edition)/CD1/10 - Peephole.mp3
+295:System of a Down/Albums/1998.06.30 - System of a Down (Limited Edition)/CD1/11 - CUBErt.mp3
+296:System of a Down/Albums/1998.06.30 - System of a Down (Limited Edition)/CD1/12 - Darts.mp3
+297:System of a Down/Albums/1998.06.30 - System of a Down (Limited Edition)/CD1/13 - P.L.U.C.K.mp3
+298:System of a Down/Albums/2001.09.04 - Toxicity (Limited Edition)/CD1/01 - Prison Song.mp3
+299:System of a Down/Albums/2001.09.04 - Toxicity (Limited Edition)/CD1/02 - Needles.mp3
+300:System of a Down/Albums/2001.09.04 - Toxicity (Limited Edition)/CD1/03 - Deer Dance.mp3
+301:System of a Down/Albums/2001.09.04 - Toxicity (Limited Edition)/CD1/04 - Jet Pilot.mp3
+302:System of a Down/Albums/2001.09.04 - Toxicity (Limited Edition)/CD1/05 - X.mp3
+303:System of a Down/Albums/2001.09.04 - Toxicity (Limited Edition)/CD1/06 - Chop Suey!.mp3
+304:System of a Down/Albums/2001.09.04 - Toxicity (Limited Edition)/CD1/07 - Bounce.mp3
+305:System of a Down/Albums/2001.09.04 - Toxicity (Limited Edition)/CD1/08 - Forest.mp3
+306:System of a Down/Albums/2001.09.04 - Toxicity (Limited Edition)/CD1/09 - ATWA.mp3
+307:System of a Down/Albums/2001.09.04 - Toxicity (Limited Edition)/CD1/10 - Science.mp3
+308:System of a Down/Albums/2001.09.04 - Toxicity (Limited Edition)/CD1/11 - Shimmy.mp3
+309:System of a Down/Albums/2001.09.04 - Toxicity (Limited Edition)/CD1/12 - Toxicity.mp3
+310:System of a Down/Albums/2001.09.04 - Toxicity (Limited Edition)/CD1/13 - Psycho.mp3
+311:System of a Down/Albums/2001.09.04 - Toxicity (Limited Edition)/CD1/14 - Aerials.mp3
+312:System of a Down/Albums/2002.11.26 - Steal This Album!/01 - Chic 'N' Stu.mp3
+313:System of a Down/Albums/2002.11.26 - Steal This Album!/02 - Innervision.mp3
+314:System of a Down/Albums/2002.11.26 - Steal This Album!/03 - Bubbles.mp3
+315:System of a Down/Albums/2002.11.26 - Steal This Album!/04 - Boom!.mp3
+316:System of a Down/Albums/2002.11.26 - Steal This Album!/05 - Nuguns.mp3
+317:System of a Down/Albums/2002.11.26 - Steal This Album!/06 - A.D.D.mp3
+318:System of a Down/Albums/2002.11.26 - Steal This Album!/07 - Mr. Jack.mp3
+319:System of a Down/Albums/2002.11.26 - Steal This Album!/08 - I-E-A-I-A-I-O.mp3
+320:System of a Down/Albums/2002.11.26 - Steal This Album!/09 - 36.mp3
+321:System of a Down/Albums/2002.11.26 - Steal This Album!/10 - Pictures.mp3
+322:System of a Down/Albums/2002.11.26 - Steal This Album!/11 - Highway Song.mp3
+323:System of a Down/Albums/2002.11.26 - Steal This Album!/12 - Fuck the System.mp3
+324:System of a Down/Albums/2002.11.26 - Steal This Album!/13 - Ego Brain.mp3
+325:System of a Down/Albums/2002.11.26 - Steal This Album!/14 - Thetawaves.mp3
+326:System of a Down/Albums/2002.11.26 - Steal This Album!/15 - Roulette.mp3
+327:System of a Down/Albums/2002.11.26 - Steal This Album!/16 - Streamline.mp3
+328:System of a Down/Albums/2005.05.16 - Mezmerize/01 - Soldier Side (intro).mp3
+329:System of a Down/Albums/2005.05.16 - Mezmerize/02 - B.Y.O.B.mp3
+330:System of a Down/Albums/2005.05.16 - Mezmerize/03 - Revenga.mp3
+331:System of a Down/Albums/2005.05.16 - Mezmerize/04 - Cigaro.mp3
+332:System of a Down/Albums/2005.05.16 - Mezmerize/05 - Radio-Video.mp3
+333:System of a Down/Albums/2005.05.16 - Mezmerize/06 - This Cocaine Makes Me Feel Like I'm on This Song.mp3
+334:System of a Down/Albums/2005.05.16 - Mezmerize/07 - Violent Pornography.mp3
+335:System of a Down/Albums/2005.05.16 - Mezmerize/08 - Question!.mp3
+336:System of a Down/Albums/2005.05.16 - Mezmerize/09 - Sad Statue.mp3
+337:System of a Down/Albums/2005.05.16 - Mezmerize/10 - Old School Hollywood.mp3
+338:System of a Down/Albums/2005.05.16 - Mezmerize/11 - Lost in Hollywood.mp3
+339:System of a Down/Albums/2005.11.22 - Hypnotize/01 - Attack.mp3
+340:System of a Down/Albums/2005.11.22 - Hypnotize/02 - Dreaming.mp3
+341:System of a Down/Albums/2005.11.22 - Hypnotize/03 - Kill Rock 'n Roll.mp3
+342:System of a Down/Albums/2005.11.22 - Hypnotize/04 - Hypnotize.mp3
+343:System of a Down/Albums/2005.11.22 - Hypnotize/05 - Stealing Society.mp3
+344:System of a Down/Albums/2005.11.22 - Hypnotize/06 - Tentative.mp3
+345:System of a Down/Albums/2005.11.22 - Hypnotize/07 - U-Fig.mp3
+346:System of a Down/Albums/2005.11.22 - Hypnotize/08 - Holy Mountains.mp3
+347:System of a Down/Albums/2005.11.22 - Hypnotize/09 - Vicinity of Obscenity.mp3
+348:System of a Down/Albums/2005.11.22 - Hypnotize/10 - She's Like Heroin.mp3
+349:System of a Down/Albums/2005.11.22 - Hypnotize/11 - Lonely Day.mp3
+350:System of a Down/Albums/2005.11.22 - Hypnotize/12 - Soldier Side.mp3
+351:Tool/Laterus/01  the grudge.mp3
+352:Tool/Laterus/02  eon blue apocalypse.mp3
+353:Tool/Laterus/03  the patient.mp3
+354:Tool/Laterus/04  the mantra.mp3
+355:Tool/Laterus/05  schism.mp3
+356:Tool/Laterus/06  parabol.mp3
+357:Tool/Laterus/07  parabola.mp3
+358:Tool/Laterus/08  ticks & leeches.mp3
+359:Tool/Laterus/09  lateralus.mp3
+360:Tool/Laterus/10  disposition.mp3
+361:Tool/Laterus/11  reflection.mp3
+362:Tool/Laterus/12  triad.mp3
+363:Tool/Laterus/13  faap de oaid.mp3
+364:Tool/Laterus/01  the grudge.mp3
+365:Tool/Laterus/02  eon blue apocalypse.mp3
+366:Tool/Laterus/03  the patient.mp3
+367:Tool/Laterus/04  the mantra.mp3
+368:Tool/Laterus/05  schism.mp3
+369:Tool/Laterus/06  parabol.mp3
+370:Tool/Laterus/07  parabola.mp3
+371:Tool/Laterus/08  ticks & leeches.mp3
+372:Tool/Laterus/09  lateralus.mp3
+373:Tool/Laterus/10  disposition.mp3
+374:Tool/Laterus/11  reflection.mp3
+375:Tool/Laterus/12  triad.mp3
+376:Tool/Laterus/13  faap de oaid.mp3
+377:Seether/[2000] Fragile/07 - Take Me Away.mp3
+378:Seether/[2000] Fragile/09 - Stay And Play.mp3
+379:Seether/[2000] Fragile/10 - Your Bore.mp3
+380:Seether/[2000] Fragile/11 - Pig.mp3
+381:Seether/[2000] Fragile/14 - Tied My Hands (acoustic).mp3
+382:Seether/[2000] Fragile/15 - Senseless Tragedy.mp3
+383:Seether/[2000] Fragile/01 - Beer.mp3
+384:Seether/[2000] Fragile/02 - 69 Tea.mp3
+385:Seether/[2000] Fragile/03 - Pride.mp3
+386:Seether/[2000] Fragile/04 - Fine Again.mp3
+387:Seether/[2000] Fragile/05 - Empty.mp3
+388:Seether/[2000] Fragile/06 - Tied My Hands.mp3
+389:Seether/[2000] Fragile/08 - Driven Under.mp3
+390:Seether/[2000] Fragile/12 - Dazed and Abused.mp3
+391:Seether/[2000] Fragile/13 - Gasoline.mp3
+392:Seether/[2004] Disclaimer II/01 - Gasoline.mp3
+393:Seether/[2004] Disclaimer II/02 - 69 Tea.mp3
+394:Seether/[2004] Disclaimer II/03 - Fine Again.mp3
+395:Seether/[2004] Disclaimer II/04 - Needles.mp3
+396:Seether/[2004] Disclaimer II/05 - Driven Under.mp3
+397:Seether/[2004] Disclaimer II/06 - Pride.mp3
+398:Seether/[2004] Disclaimer II/07 - Sympathetic.mp3
+399:Seether/[2004] Disclaimer II/08 - Your Bore.mp3
+400:Seether/[2004] Disclaimer II/09 - Fade Away.mp3
+401:Seether/[2004] Disclaimer II/10 - Pig.mp3
+402:Seether/[2004] Disclaimer II/11 - Fuck It.mp3
+403:Seether/[2004] Disclaimer II/12 - Broken.mp3
+404:Seether/[2004] Disclaimer II/13 - Sold Me.mp3
+405:Seether/[2004] Disclaimer II/14 - Cigarettes.mp3
+406:Seether/[2004] Disclaimer II/15 - Love Her.mp3
+407:Seether/[2004] Disclaimer II/16 - Take Me Away.mp3
+408:Seether/[2004] Disclaimer II/17 - Got It Made.mp3
+409:Seether/[2004] Disclaimer II/18 - Out Of My Way.mp3
+410:Seether/[2004] Disclaimer II/19 - Hang On.mp3
+411:Seether/[2005] Karma & Effect/01 - Because Of Me.mp3
+412:Seether/[2005] Karma & Effect/02 - Remedy.mp3
+413:Seether/[2005] Karma & Effect/03 - Truth.mp3
+414:Seether/[2005] Karma & Effect/04 - The Gift.mp3
+415:Seether/[2005] Karma & Effect/05 - Burrito.mp3
+416:Seether/[2005] Karma & Effect/06 - Given.mp3
+417:Seether/[2005] Karma & Effect/07 - Never Leave.mp3
+418:Seether/[2005] Karma & Effect/08 - World Falls Away.mp3
+419:Seether/[2005] Karma & Effect/09 - Tongue.mp3
+420:Seether/[2005] Karma & Effect/10 - I'm The One.mp3
+421:Seether/[2005] Karma & Effect/11 - Simplest Mistake.mp3
+422:Seether/[2005] Karma & Effect/12 - Diseased.mp3
+423:Seether/[2005] Karma & Effect/13 - Plastic Man.mp3
+424:Seether/[2005] Karma & Effect/14 - (Untitled).mp3
+425:Seether/[2006] One Cold Night [EP]/01 - Gasoline.mp3
+426:Seether/[2006] One Cold Night [EP]/02 - Driven Under.mp3
+427:Seether/[2006] One Cold Night [EP]/03 - Diseased.mp3
+428:Seether/[2006] One Cold Night [EP]/04 - Truth.mp3
+429:Seether/[2006] One Cold Night [EP]/05 - Immortality.mp3
+430:Seether/[2006] One Cold Night [EP]/06 - Tied My Hands.mp3
+431:Seether/[2006] One Cold Night [EP]/07 - Symphatetic.mp3
+432:Seether/[2006] One Cold Night [EP]/08 - Fine Again.mp3
+433:Seether/[2006] One Cold Night [EP]/09 - Broken.mp3
+434:Seether/[2006] One Cold Night [EP]/10 - The Gift.mp3
+435:Seether/[2006] One Cold Night [EP]/11 - Remedy.mp3
+436:Seether/[2006] One Cold Night [EP]/12 - Plastic Man.mp3
+437:Seether/[2006] One Cold Night [EP]/13 - Needles.mp3
+438:Seether/[2006] One Cold Night [EP]/14 - The Gift (Alternate Mix).mp3
+439:Seether/[2006] B-Sides & Rarities/02 - Blister.mp3
+440:Seether/[2006] B-Sides & Rarities/03 - Skin The Tiger.mp3
+441:Seether/[2006] B-Sides & Rarities/04 - Senseless Tragedy.mp3
+442:Seether/[2006] B-Sides & Rarities/05 - Rain (Acoustic).mp3
+443:Seether/[2006] B-Sides & Rarities/06 - One On One (Live at Woodstock).mp3
+444:Seether/[2006] B-Sides & Rarities/07 - Love Her (5fm studios).mp3
+445:Seether/[2006] B-Sides & Rarities/08 - Jessie's Song.mp3
+446:Seether/[2006] B-Sides & Rarities/09 - River Of Deceit.mp3
+447:Seether/[2006] B-Sides & Rarities/10 - Rehab (Pepsi Smash).mp3
+448:Seether/[2006] B-Sides & Rarities/01 - Innocence.mp3
+449:Seether/[2007] Finding Beauty In Negative Spaces/01 - Like Suicide.mp3
+450:Seether/[2007] Finding Beauty In Negative Spaces/02 - Fake It.mp3
+451:Seether/[2007] Finding Beauty In Negative Spaces/03 - Breakdown.mp3
+452:Seether/[2007] Finding Beauty In Negative Spaces/04 - Fmlyhm.mp3
+453:Seether/[2007] Finding Beauty In Negative Spaces/05 - Fallen.mp3
+454:Seether/[2007] Finding Beauty In Negative Spaces/06 - Rise Above This.mp3
+455:Seether/[2007] Finding Beauty In Negative Spaces/07 - No Jesus Christ.mp3
+456:Seether/[2007] Finding Beauty In Negative Spaces/09 - Walk Away From The Sun.mp3
+457:Seether/[2007] Finding Beauty In Negative Spaces/10 - Eyes Of The Devil.mp3
+458:Seether/[2007] Finding Beauty In Negative Spaces/11 - Don't Believe.mp3
+459:Seether/[2007] Finding Beauty In Negative Spaces/12 - Waste.mp3
+460:Seether/[2007] Finding Beauty In Negative Spaces/16 - Naked (Bonus Track).mp3
+461:Seether/[2007] Finding Beauty In Negative Spaces/08 - Six Gun Quota.mp3
+462:Seether/[2007] Finding Beauty In Negative Spaces/18 - Untitled [Instrumental] (Bonus Track).mp3
+463:Seether/[2007] Finding Beauty In Negative Spaces/15 - Quirk (Demo Version- ''Fake It'') (Bonus Track).mp3
+464:Seether/[2007] Finding Beauty In Negative Spaces/17 - Left For Dead (B-Side).mp3
+465:Seether/[2008] Lost Boys (The Tribe OST)/01 - Burrito (Live Acoustic).mp3
+466:Seether/[2009] I've Got You Under My Skin (Cover)/01 - I've Got You Under My Skin (Frank Sinatra Cover).mp3
+467:Seether/[2007] Finding Beauty In Negative Spaces/13 - Careless Whisper.mp3
+468:Seether/[2007] Finding Beauty In Negative Spaces/14 - Careless Whisper (Strings Version).mp3
+469:Seether/[2011] Holding Onto Strings Better Left To Fray/01 - Fur Cue.mp3
+470:Seether/[2011] Holding Onto Strings Better Left To Fray/02 - No Resolution.mp3
+471:Seether/[2011] Holding Onto Strings Better Left To Fray/03 - Here And Now.mp3
+472:Seether/[2011] Holding Onto Strings Better Left To Fray/04 - Country Song.mp3
+473:Seether/[2011] Holding Onto Strings Better Left To Fray/05 - Master Of Disaster.mp3
+474:Seether/[2011] Holding Onto Strings Better Left To Fray/06 - Tonight.mp3
+475:Seether/[2011] Holding Onto Strings Better Left To Fray/07 - Pass Slowly.mp3
+476:Seether/[2011] Holding Onto Strings Better Left To Fray/08 - Fade Out.mp3
+477:Seether/[2011] Holding Onto Strings Better Left To Fray/09 - Roses.mp3
+478:Seether/[2011] Holding Onto Strings Better Left To Fray/10 - Down.mp3
+479:Seether/[2011] Holding Onto Strings Better Left To Fray/11 - Desire For Need.mp3
+480:Seether/[2011] Holding Onto Strings Better Left To Fray/12 - Forsaken.mp3
+481:Seether/[2011] Holding Onto Strings Better Left To Fray/13 - Dead Seeds (Bonus Track).mp3
+482:Seether/[2011] Holding Onto Strings Better Left To Fray/14 - Yeah (Bonus Track).mp3
+483:Seether/[2011] Holding Onto Strings Better Left To Fray/15 - Nobody (Bonus Track).mp3
+484:Seether/[2011] Holding Onto Strings Better Left To Fray/16 - Effigy (Bonus Track).mp3
+485:Seether/[2014] Isolate And Medicate (Deluxe Edition)/01 - See You At The Bottom.mp3
+486:Seether/[2014] Isolate And Medicate (Deluxe Edition)/02 - Same Damn Life.mp3
+487:Seether/[2014] Isolate And Medicate (Deluxe Edition)/03 - Words As Weapons.mp3
+488:Seether/[2014] Isolate And Medicate (Deluxe Edition)/04 - My Disaster.mp3
+489:Seether/[2014] Isolate And Medicate (Deluxe Edition)/05 - Crash.mp3
+490:Seether/[2014] Isolate And Medicate (Deluxe Edition)/06 - Suffer It All.mp3
+491:Seether/[2014] Isolate And Medicate (Deluxe Edition)/07 - Watch Me Drown.mp3
+492:Seether/[2014] Isolate And Medicate (Deluxe Edition)/08 - Nobody Praying For Me.mp3
+493:Seether/[2014] Isolate And Medicate (Deluxe Edition)/09 - Keep The Dogs At Bay.mp3
+494:Seether/[2014] Isolate And Medicate (Deluxe Edition)/10 - Save Today.mp3
+495:Seether/[2014] Isolate And Medicate (Deluxe Edition)/11 - Turn Around.mp3
+496:Seether/[2014] Isolate And Medicate (Deluxe Edition)/12 - Burn The World.mp3
+497:Seether/[2014] Isolate And Medicate (Deluxe Edition)/13 - Goodbye Tonight - Van Coke Kartel.mp3
+498:Seether/[2014] Isolate And Medicate (Deluxe Edition)/14 - Weak.mp3
+499:Seether/[2000] Fragile/07 - Take Me Away.mp3
+500:Seether/[2000] Fragile/09 - Stay And Play.mp3
+501:Seether/[2000] Fragile/10 - Your Bore.mp3
+502:Seether/[2000] Fragile/11 - Pig.mp3
+503:Seether/[2000] Fragile/14 - Tied My Hands (acoustic).mp3
+504:Seether/[2000] Fragile/15 - Senseless Tragedy.mp3
+505:Seether/[2000] Fragile/01 - Beer.mp3
+506:Seether/[2000] Fragile/02 - 69 Tea.mp3
+507:Seether/[2000] Fragile/03 - Pride.mp3
+508:Seether/[2000] Fragile/04 - Fine Again.mp3
+509:Seether/[2000] Fragile/05 - Empty.mp3
+510:Seether/[2000] Fragile/06 - Tied My Hands.mp3
+511:Seether/[2000] Fragile/08 - Driven Under.mp3
+512:Seether/[2000] Fragile/12 - Dazed and Abused.mp3
+513:Seether/[2000] Fragile/13 - Gasoline.mp3
+514:Seether/[2004] Disclaimer II/01 - Gasoline.mp3
+515:Seether/[2004] Disclaimer II/02 - 69 Tea.mp3
+516:Seether/[2004] Disclaimer II/03 - Fine Again.mp3
+517:Seether/[2004] Disclaimer II/04 - Needles.mp3
+518:Seether/[2004] Disclaimer II/05 - Driven Under.mp3
+519:Seether/[2004] Disclaimer II/06 - Pride.mp3
+520:Seether/[2004] Disclaimer II/07 - Sympathetic.mp3
+521:Seether/[2004] Disclaimer II/08 - Your Bore.mp3
+522:Seether/[2004] Disclaimer II/09 - Fade Away.mp3
+523:Seether/[2004] Disclaimer II/10 - Pig.mp3
+524:Seether/[2004] Disclaimer II/11 - Fuck It.mp3
+525:Seether/[2004] Disclaimer II/12 - Broken.mp3
+526:Seether/[2004] Disclaimer II/13 - Sold Me.mp3
+527:Seether/[2004] Disclaimer II/14 - Cigarettes.mp3
+528:Seether/[2004] Disclaimer II/15 - Love Her.mp3
+529:Seether/[2004] Disclaimer II/16 - Take Me Away.mp3
+530:Seether/[2004] Disclaimer II/17 - Got It Made.mp3
+531:Seether/[2004] Disclaimer II/18 - Out Of My Way.mp3
+532:Seether/[2004] Disclaimer II/19 - Hang On.mp3
+533:Seether/[2005] Karma & Effect/01 - Because Of Me.mp3
+534:Seether/[2005] Karma & Effect/02 - Remedy.mp3
+535:Seether/[2005] Karma & Effect/03 - Truth.mp3
+536:Seether/[2005] Karma & Effect/04 - The Gift.mp3
+537:Seether/[2005] Karma & Effect/05 - Burrito.mp3
+538:Seether/[2005] Karma & Effect/06 - Given.mp3
+539:Seether/[2005] Karma & Effect/07 - Never Leave.mp3
+540:Seether/[2005] Karma & Effect/08 - World Falls Away.mp3
+541:Seether/[2005] Karma & Effect/09 - Tongue.mp3
+542:Seether/[2005] Karma & Effect/10 - I'm The One.mp3
+543:Seether/[2005] Karma & Effect/11 - Simplest Mistake.mp3
+544:Seether/[2005] Karma & Effect/12 - Diseased.mp3
+545:Seether/[2005] Karma & Effect/13 - Plastic Man.mp3
+546:Seether/[2005] Karma & Effect/14 - (Untitled).mp3
+547:Seether/[2006] One Cold Night [EP]/01 - Gasoline.mp3
+548:Seether/[2006] One Cold Night [EP]/02 - Driven Under.mp3
+549:Seether/[2006] One Cold Night [EP]/03 - Diseased.mp3
+550:Seether/[2006] One Cold Night [EP]/04 - Truth.mp3
+551:Seether/[2006] One Cold Night [EP]/05 - Immortality.mp3
+552:Seether/[2006] One Cold Night [EP]/06 - Tied My Hands.mp3
+553:Seether/[2006] One Cold Night [EP]/07 - Symphatetic.mp3
+554:Seether/[2006] One Cold Night [EP]/08 - Fine Again.mp3
+555:Seether/[2006] One Cold Night [EP]/09 - Broken.mp3
+556:Seether/[2006] One Cold Night [EP]/10 - The Gift.mp3
+557:Seether/[2006] One Cold Night [EP]/11 - Remedy.mp3
+558:Seether/[2006] One Cold Night [EP]/12 - Plastic Man.mp3
+559:Seether/[2006] One Cold Night [EP]/13 - Needles.mp3
+560:Seether/[2006] One Cold Night [EP]/14 - The Gift (Alternate Mix).mp3
+561:Seether/[2006] B-Sides & Rarities/02 - Blister.mp3
+562:Seether/[2006] B-Sides & Rarities/03 - Skin The Tiger.mp3
+563:Seether/[2006] B-Sides & Rarities/04 - Senseless Tragedy.mp3
+564:Seether/[2006] B-Sides & Rarities/05 - Rain (Acoustic).mp3
+565:Seether/[2006] B-Sides & Rarities/06 - One On One (Live at Woodstock).mp3
+566:Seether/[2006] B-Sides & Rarities/07 - Love Her (5fm studios).mp3
+567:Seether/[2006] B-Sides & Rarities/08 - Jessie's Song.mp3
+568:Seether/[2006] B-Sides & Rarities/09 - River Of Deceit.mp3
+569:Seether/[2006] B-Sides & Rarities/10 - Rehab (Pepsi Smash).mp3
+570:Seether/[2006] B-Sides & Rarities/01 - Innocence.mp3
+571:Seether/[2007] Finding Beauty In Negative Spaces/01 - Like Suicide.mp3
+572:Seether/[2007] Finding Beauty In Negative Spaces/02 - Fake It.mp3
+573:Seether/[2007] Finding Beauty In Negative Spaces/03 - Breakdown.mp3
+574:Seether/[2007] Finding Beauty In Negative Spaces/04 - Fmlyhm.mp3
+575:Seether/[2007] Finding Beauty In Negative Spaces/05 - Fallen.mp3
+576:Seether/[2007] Finding Beauty In Negative Spaces/06 - Rise Above This.mp3
+577:Seether/[2007] Finding Beauty In Negative Spaces/07 - No Jesus Christ.mp3
+578:Seether/[2007] Finding Beauty In Negative Spaces/09 - Walk Away From The Sun.mp3
+579:Seether/[2007] Finding Beauty In Negative Spaces/10 - Eyes Of The Devil.mp3
+580:Seether/[2007] Finding Beauty In Negative Spaces/11 - Don't Believe.mp3
+581:Seether/[2007] Finding Beauty In Negative Spaces/12 - Waste.mp3
+582:Seether/[2007] Finding Beauty In Negative Spaces/16 - Naked (Bonus Track).mp3
+583:Seether/[2007] Finding Beauty In Negative Spaces/08 - Six Gun Quota.mp3
+584:Seether/[2007] Finding Beauty In Negative Spaces/18 - Untitled [Instrumental] (Bonus Track).mp3
+585:Seether/[2007] Finding Beauty In Negative Spaces/15 - Quirk (Demo Version- ''Fake It'') (Bonus Track).mp3
+586:Seether/[2007] Finding Beauty In Negative Spaces/17 - Left For Dead (B-Side).mp3
+587:Seether/[2008] Lost Boys (The Tribe OST)/01 - Burrito (Live Acoustic).mp3
+588:Seether/[2009] I've Got You Under My Skin (Cover)/01 - I've Got You Under My Skin (Frank Sinatra Cover).mp3
+589:Seether/[2007] Finding Beauty In Negative Spaces/13 - Careless Whisper.mp3
+590:Seether/[2007] Finding Beauty In Negative Spaces/14 - Careless Whisper (Strings Version).mp3
+591:Seether/[2011] Holding Onto Strings Better Left To Fray/01 - Fur Cue.mp3
+592:Seether/[2011] Holding Onto Strings Better Left To Fray/02 - No Resolution.mp3
+593:Seether/[2011] Holding Onto Strings Better Left To Fray/03 - Here And Now.mp3
+594:Seether/[2011] Holding Onto Strings Better Left To Fray/04 - Country Song.mp3
+595:Seether/[2011] Holding Onto Strings Better Left To Fray/05 - Master Of Disaster.mp3
+596:Seether/[2011] Holding Onto Strings Better Left To Fray/06 - Tonight.mp3
+597:Seether/[2011] Holding Onto Strings Better Left To Fray/07 - Pass Slowly.mp3
+598:Seether/[2011] Holding Onto Strings Better Left To Fray/08 - Fade Out.mp3
+599:Seether/[2011] Holding Onto Strings Better Left To Fray/09 - Roses.mp3
+600:Seether/[2011] Holding Onto Strings Better Left To Fray/10 - Down.mp3
+601:Seether/[2011] Holding Onto Strings Better Left To Fray/11 - Desire For Need.mp3
+602:Seether/[2011] Holding Onto Strings Better Left To Fray/12 - Forsaken.mp3
+603:Seether/[2011] Holding Onto Strings Better Left To Fray/13 - Dead Seeds (Bonus Track).mp3
+604:Seether/[2011] Holding Onto Strings Better Left To Fray/14 - Yeah (Bonus Track).mp3
+605:Seether/[2011] Holding Onto Strings Better Left To Fray/15 - Nobody (Bonus Track).mp3
+606:Seether/[2011] Holding Onto Strings Better Left To Fray/16 - Effigy (Bonus Track).mp3
+607:Seether/[2014] Isolate And Medicate (Deluxe Edition)/01 - See You At The Bottom.mp3
+608:Seether/[2014] Isolate And Medicate (Deluxe Edition)/02 - Same Damn Life.mp3
+609:Seether/[2014] Isolate And Medicate (Deluxe Edition)/03 - Words As Weapons.mp3
+610:Seether/[2014] Isolate And Medicate (Deluxe Edition)/04 - My Disaster.mp3
+611:Seether/[2014] Isolate And Medicate (Deluxe Edition)/05 - Crash.mp3
+612:Seether/[2014] Isolate And Medicate (Deluxe Edition)/06 - Suffer It All.mp3
+613:Seether/[2014] Isolate And Medicate (Deluxe Edition)/07 - Watch Me Drown.mp3
+614:Seether/[2014] Isolate And Medicate (Deluxe Edition)/08 - Nobody Praying For Me.mp3
+615:Seether/[2014] Isolate And Medicate (Deluxe Edition)/09 - Keep The Dogs At Bay.mp3
+616:Seether/[2014] Isolate And Medicate (Deluxe Edition)/10 - Save Today.mp3
+617:Seether/[2014] Isolate And Medicate (Deluxe Edition)/11 - Turn Around.mp3
+618:Seether/[2014] Isolate And Medicate (Deluxe Edition)/12 - Burn The World.mp3
+619:Seether/[2014] Isolate And Medicate (Deluxe Edition)/13 - Goodbye Tonight - Van Coke Kartel.mp3
+620:Seether/[2014] Isolate And Medicate (Deluxe Edition)/14 - Weak.mp3
+621:Slipknot/Slipknot Psychosocial and All Hope Is Gone/Slipknot - All Hope Is Gone.mp3
+622:Slipknot/Slipknot Psychosocial and All Hope Is Gone/Slipknot - Psychosocial.mp3
+623:Slipknot/Slipknot Psychosocial and All Hope Is Gone/Slipknot - Psychosocial.mp3
+624:Slipknot/Slipknot Psychosocial and All Hope Is Gone/Slipknot - Psychosocial.mp3
+625:Slipknot/Slipknot Psychosocial and All Hope Is Gone/Slipknot - All Hope Is Gone.mp3
+playlist_end
